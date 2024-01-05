@@ -1,2 +1,4 @@
 # demo-github
-This is my first Github repository. It is just for learning purpose.
+This is my first Github repository.
+<br>
+It is just for learning purpose.
